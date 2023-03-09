@@ -1,0 +1,23 @@
+.red-text {
+    color: red;
+}
+
+.underline {
+    text-decoration : underline;
+}
+
+#logo {
+    color: blueviolet;
+    font-style: italic;
+}
+h1 {
+    font-size: 50px;
+}
+
+h2, p, .underline {
+    text-align: center;
+}
+
+.parent-div p:hover {
+    color: blue;
+}
